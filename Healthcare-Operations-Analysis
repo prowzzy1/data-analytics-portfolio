@@ -1,4 +1,34 @@
-dataset.csv
-analysis.sql
-dashboard.xlsx
-README.md
+# Healthcare Operations Analysis
+
+## Objective
+Evaluate patient service data to identify operational bottlenecks affecting wait times and care quality.
+
+## Tools Used
+- SQL
+- Microsoft Excel
+
+## Skills Demonstrated
+- Healthcare data analysis
+- KPI creation
+- Data cleaning
+- SQL grouping and aggregation
+- Operational performance analysis
+- Data visualization
+
+## Dataset
+Simulated healthcare operations dataset including patient visits, wait times, visit types, and care satisfaction ratings.
+
+## Process
+- Cleaned patient visit data and validated missing or inconsistent values
+- Used SQL to aggregate wait times and satisfaction scores by visit type
+- Created KPIs to measure service efficiency and patient experience
+- Built Excel dashboard to visualize performance across departments
+
+## Key Insights
+- Longer wait times were strongly associated with lower care satisfaction scores
+- Emergency visits experienced the highest average wait times
+- Certain departments consistently underperformed on both speed and satisfaction
+- Reducing average wait time by 10 minutes could significantly improve patient ratings
+
+## Outcome
+Provided operational insights to support workflow optimization, staffing adjustments, and improved patient experience.
