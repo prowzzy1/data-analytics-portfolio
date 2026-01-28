@@ -1,4 +1,34 @@
-dataset.csv
-analysis.sql
-dashboard.xlsx
-README.md
+# Customer Billing Analysis
+
+## Objective
+Analyze customer billing data to identify unbilled accounts, common billing errors, and process inefficiencies impacting customer experience.
+
+## Tools Used
+- SQL
+- Microsoft Excel
+
+## Skills Demonstrated
+- Data cleaning and validation
+- SQL aggregation and filtering
+- KPI development
+- Root cause analysis
+- Business insight generation
+- Data visualization
+
+## Dataset
+Simulated billing dataset including customer account status, payment history, billing errors, issue types, and resolution times.
+
+## Process
+- Cleaned and standardized raw billing data in Excel
+- Queried dataset using SQL to identify high-frequency billing issues
+- Calculated KPIs such as error rate, average resolution time, and unbilled account percentage
+- Built Excel dashboard with Pivot Tables and charts to visualize trends
+
+## Key Insights
+- Billing errors accounted for approximately 35% of unresolved customer cases
+- Missing enrollment information was the leading cause of unbilled accounts
+- Accounts with billing errors took 2.4x longer to resolve on average
+- A small number of issue categories generated the majority of support workload
+
+## Outcome
+Delivered a dashboard and analytical summary to support data-driven improvements in billing accuracy, reduce resolution time, and lower repeat customer contacts.
