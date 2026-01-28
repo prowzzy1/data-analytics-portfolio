@@ -1,1 +1,26 @@
 # data-analytics-portfolio
+
+# Customer Retention Dashboard
+
+## Objective
+Analyze customer interaction data to identify drivers of repeat contacts and customer dissatisfaction.
+
+## Tools Used
+- SQL
+- Microsoft Excel
+
+## Dataset
+Simulated customer support dataset including issue categories, repeat contacts, satisfaction scores, and call volume.
+
+## Process
+- Cleaned raw data in Excel
+- Used SQL to aggregate customer issues and satisfaction trends
+- Built Excel dashboard with KPIs and charts
+
+## Key Insights
+- Technical issues produced the lowest satisfaction scores
+- Repeat contacts increased when resolution required multiple calls
+- Certain issue categories consistently drove higher call volume
+
+## Outcome
+Created a dashboard to help prioritize high-impact customer issues and improve retention strategies.
