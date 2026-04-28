@@ -21,10 +21,14 @@ I have professional experience working with customer and healthcare data, includ
 ## 📁 Projects
 
 ### 1️⃣ Customer Billing Analysis
-**Folder:** `Customer-Billing-Analysis`  
-Analyzed customer billing data to identify unbilled accounts, common billing errors, and resolution delays. Built SQL queries and an Excel dashboard to highlight process inefficiencies and improvement opportunities.
+**Folder:** `### 1. Customer Billing Analysis
+**Folder:** `Customer-Billing-Analysis`
 
-**Tools:** SQL, Excel
+Analyzed customer billing data using Python (Pandas, Seaborn) to identify patterns in account status, billing errors, and payment behavior. Discovered that suspended accounts were strongly associated with higher outstanding balances and recurring billing issues.
+
+Developed visualizations to highlight trends in late payments, overcharges, and issue resolution times, and provided actionable recommendations to improve billing accuracy and reduce customer dissatisfaction.
+
+**Tools:** Python, Pandas, Seaborn, Jupyter Notebook
 
 ---
 
