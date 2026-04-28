@@ -20,8 +20,7 @@ I have professional experience working with customer and healthcare data, includ
 
 ## 📁 Projects
 
-### 1️⃣ Customer Billing Analysis
-**Folder:** `### 1. Customer Billing Analysis
+### 1. Customer Billing Analysis
 **Folder:** `Customer-Billing-Analysis`
 
 Analyzed customer billing data using Python (Pandas, Seaborn) to identify patterns in account status, billing errors, and payment behavior. Discovered that suspended accounts were strongly associated with higher outstanding balances and recurring billing issues.
@@ -34,7 +33,8 @@ Developed visualizations to highlight trends in late payments, overcharges, and 
 
 ### 2️⃣ Customer Retention Dashboard
 **Folder:** `Customer-Retention-Dashboard`  
-Created a dashboard to analyze repeat customer contacts, issue categories, and satisfaction scores to identify drivers of churn and poor customer experience.
+
+Built a dashboard to analyze repeat customer contacts, issue categories, and satisfaction scores, identifying key drivers of customer churn. Discovered patterns in frequent support interactions and low satisfaction segments, helping highlight areas for improving customer experience.
 
 **Tools:** SQL, Excel
 
@@ -42,7 +42,8 @@ Created a dashboard to analyze repeat customer contacts, issue categories, and s
 
 ### 3️⃣ Healthcare Operations Analysis
 **Folder:** `Healthcare-Operations-Analysis`  
-Evaluated patient wait times and care quality metrics to uncover operational bottlenecks and performance gaps across visit types.
+
+Analyzed patient wait times and care quality metrics to identify operational bottlenecks across service types. Uncovered inefficiencies in high-volume areas and provided insights to improve workflow efficiency and patient experience.
 
 **Tools:** SQL, Excel
 
